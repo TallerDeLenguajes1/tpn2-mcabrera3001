@@ -1,0 +1,5 @@
+#Extensiones a ignorar
+
+*.exe
+*.obj
+*.tds
