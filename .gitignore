@@ -3,3 +3,8 @@
 *.exe
 *.obj
 *.tds
+*.json
+
+#Carpetas a Ignorar
+
+.vscode/*.json
